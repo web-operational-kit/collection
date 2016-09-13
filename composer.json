@@ -1,6 +1,6 @@
 {
-    "name": "sebastien/collection",
-    "description": "wok/collection",
+    "name": "wok/collection",
+    "description": "Data collection manager",
     "type": "library",
     "license": "MIT",
     "authors": [
