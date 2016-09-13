@@ -1,0 +1,19 @@
+{
+    "name": "sebastien/collection",
+    "description": "wok/collection",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sébastien ALEXANDRE",
+            "email": "sebastien@graphidev.fr"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WOK\\Collection\\": "./src/"
+        }
+    }
+}
