@@ -2,6 +2,8 @@
 
 This library is lightweight **collection manager**.
 
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/5c98255e-f180-45ac-aadb-acce2bf229b1/big.png)](https://insight.sensiolabs.com/projects/5c98255e-f180-45ac-aadb-acce2bf229b1)
+
 **Diclaimer :** This component is part of the [WOK](https://github.com/web-operational-kit/) (Web Operational Kit) framework. It however can be used as a standalone library.
 
 ## Install
